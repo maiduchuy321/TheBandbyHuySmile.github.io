@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\f8-shop"
+		},
+		{
+			"path": "..\\.."
+		},
+		{
+			"path": "..\\..\\..\\hoc BEM"
+		},
+		{
+			"path": "..\\..\\..\\hoc flex"
+		},
+		{
+			"path": "..\\..\\..\\shopee"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "shopee"
+	}
+}
